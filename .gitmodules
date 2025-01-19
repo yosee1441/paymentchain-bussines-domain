@@ -1,0 +1,9 @@
+[submodule "transaction"]
+	path = transaction
+	url = https://github.com/yosee1441/paymentchain-transaction-microservice.git
+[submodule "product"]
+	path = product
+	url = https://github.com/yosee1441/paymentchain-product-microservice.git
+[submodule "customer"]
+	path = customer
+	url = https://github.com/yosee1441/paymentchain-customer-microservice.git
